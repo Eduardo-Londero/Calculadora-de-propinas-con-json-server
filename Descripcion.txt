@@ -1,0 +1,8 @@
+Calculadora de consumos y propinas
+
+Aplicacion en la cual colocamos una mesa y un horario.
+Y nos va a aparecer la lista de comidas (consumiendo una api) 
+y podremos agregarles lo que 
+hayan consumido, y tambien podemos eliminarlo.
+Al finalizar calcula el consumo total de lo que se haya consumido 
+y ademas calcular la propina que se va a dejar 10% , 25% , 50%.
